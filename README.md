@@ -14,7 +14,7 @@ vpn4in1组件：
         pptp+openvpn(obfsproxy)+l2tp+shadowsocks
 
 =======
-安装方式：
+instal：
 
         git clone https://github.com/crazw/vpn4in1.git
       
